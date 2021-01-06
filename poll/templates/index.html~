@@ -1,0 +1,87 @@
+{% load static %} <!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>PollApp</title>
+   
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/home.css' %}">
+        
+
+  </head>
+  <body>
+  <div class="container-fluid">
+    
+	    <div class="container" id="container1">
+	      <h1>Creat Your Poll Now</h1>
+	      <p>Instant and Real Time Polls</p>
+	    </div>
+	    
+	    <div class="container" id="container2">
+	      <form action="{% url 'vote' %}" method="post">
+	      {% csrf_token %}
+	      
+		<div class="input-group mb-3">
+		  <span class="input-group-text" id="inputGroup-sizing-default">Poll Title</span>
+		  <input type="text" class="form-control" name="ti" aria-label="Sizing example input" 
+		  aria-describedby="inputGroup-sizing-default">
+		</div>
+	      
+		
+	       <select class="form-select form-select-lg mb-3" id="list" aria-label=".form-select-lg example" onchange="getval();">
+			<option selected>Number of Options</option>
+			<option value="1">One</option>
+			<option value="2">Two</option>
+			<option value="3">Three</option>
+			<option value="4">Four</option>
+                        <option value="5">Five</option>
+	       </select>	
+		
+	      
+	      <input type="text" class="form-control" name="cho1" placeholder="Choice 1" aria-label="Username" 
+	      aria-describedby="addon-wrapping">
+	      
+	      <input type="text" class="form-control" name="cho3" placeholder="Choice 3" aria-label="Username" 
+              aria-describedby="addon-wrapping">
+
+              <input type="text" class="form-control" name="cho3" placeholder="Choice 3" aria-label="Username" 
+              aria-describedby="addon-wrapping">
+
+              <input type="text" class="form-control" name="cho3" placeholder="Choice 3" aria-label="Username" 
+              aria-describedby="addon-wrapping">
+
+              <input type="text" class="form-control" name="cho3" placeholder="Choice 3" aria-label="Username" 
+              aria-describedby="addon-wrapping">
+
+	     
+		
+
+	       <button type="submit" class="btn btn-primary">Creat Poll</button>
+	      </form> 
+	      
+	      <p id="demo"></p>
+
+		<script>
+		
+		function getval(sel)
+		{
+			 var selectedValue = document.getElementById("list").value;
+                         alert(selectedValue);
+			if (selectedValue==1)
+			{
+				alert("yes");
+			}
+			
+			else
+			{
+				alert("NO");
+			}
+		}
+		</script>
+
+	    </div>
+    
+  </div>        
+  </body>
+</html>

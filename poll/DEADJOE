@@ -1,0 +1,183 @@
+
+*** These modified files were found in JOE when it aborted on Thu Dec 17 11:32:15 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+pollApp/views.py
+pollApp/models.py
+pollApp/models.py
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Sun Dec 20 08:43:23 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+case 8:
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").hide()
+                 $("#ch5").hide()
+                 $("#ch4").hide()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+*** File '(Unnamed)'
+templates/index.html
+templates/index.html
+templates/index.html
+static/js/home.js
+templates/index.html
+static/js/home.js
+static/js/home.js
+templates/index.html
+templates/index.html
+templates/index.html
+static/js/home.js
+static/js/home.js
+static/js/home.js
+static/js/home.js
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Sun Dec 20 08:46:08 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+static/css/vote.css
+templates/vote.html
+templates/vote.html
+templates/vote.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Sun Dec 20 08:46:08 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+static/css/vote.css
+static/css/vote.css
+static/css/vote.css
+templates/vote.html
+templates/vote.html
+templates/vote.html
+templates/vote.html
+templates/vote.html
+templates/vote.html
+templates/vote.html
+templates/results.html
+templates/results.html
+templates/results.html
+templates/results.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Tue Dec 22 00:25:55 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+static/js/home.js
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Tue Dec 29 05:52:44 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+static/js/home.js
+templates/index.html
+templates/index.html
+templates/index.html
+templates/home.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/home.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+templates/index.html
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

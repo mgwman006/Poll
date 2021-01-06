@@ -1,0 +1,172 @@
+<script>
+
+    function getSelectValue()
+    {
+
+        var x = document.getElementById("inputGroupSelect01").value;
+
+        switch(x)
+        {
+            case 1:
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").hide()
+                 $("#ch5").hide()
+                 $("#ch4").hide()
+                 $("#ch3").hide()
+                 $("#ch2").hide()
+                 $("#ch1").show()
+                 break;
+
+            case 2:
+            
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").hide()
+                 $("#ch5").hide()
+                 $("#ch4").hide()
+                 $("#ch3").hide()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+
+            case 3:
+            
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").hide()
+                 $("#ch5").hide()
+                 $("#ch4").hide()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+
+            case 4:
+            
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").hide()
+                 $("#ch5").hide()
+                 $("#ch4").show()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+ 
+            case 5:
+            
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").hide()
+                 $("#ch5").show()
+                 $("#ch4").show()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+ 
+           case 6:
+           
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").show()
+                 $("#ch5").show()
+                 $("#ch4").show()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+
+
+            case 7:
+            
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").show()
+                 $("#ch6").show()
+                 $("#ch5").show()
+                 $("#ch4").show()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+
+
+            case 8:
+            
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").show()
+                 $("#ch7").show()
+                 $("#ch6").show()
+                 $("#ch5").show()
+                 $("#ch4").show()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+
+                 
+            case 9:
+            
+                 $("#ch10").hide()
+                 $("#ch9").show()
+                 $("#ch8").show()
+                 $("#ch7").show()
+                 $("#ch6").show()
+                 $("#ch5").show()
+                 $("#ch4").show()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+
+                 
+            case 10:
+            
+                 $("#ch10").show()
+                 $("#ch9").show()
+                 $("#ch8").show()
+                 $("#ch7").show()
+                 $("#ch6").show()
+                 $("#ch5").show()
+                 $("#ch4").show()
+                 $("#ch3").show()
+                 $("#ch2").show()
+                 $("#ch1").show()
+                 break;
+            
+            default:
+            
+                 $("#ch10").hide()
+                 $("#ch9").hide()
+                 $("#ch8").hide()
+                 $("#ch7").hide()
+                 $("#ch6").hide()
+                 $("#ch5").hide()
+                 $("#ch4").hide()
+                 $("#ch3").hide()
+                 $("#ch2").hide()
+                 $("#ch1").show()
+
+
+        
+        }
+    }
+    
+    
+</script>

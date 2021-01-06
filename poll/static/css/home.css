@@ -1,0 +1,16 @@
+
+#container1 {
+    text-align: center;
+}
+
+#container2 {
+
+    border: 3px solid green;
+    border-radius: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: calc(100% - 400px);
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
